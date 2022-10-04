@@ -1,0 +1,32 @@
+{
+  "name": "smd-config",
+  "version": "1.0.3",
+  "description": "Config provider for your app",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-md786/smd-config.git"
+  },
+  "keywords": [
+    "config",
+    "config-provider",
+    "provider"
+  ],
+  "author": "shubham-md786",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham-md786/config/issues"
+  },
+  "homepage": "https://github.com/Shubham-md786/smd-config#readme",
+  "devDependencies": {
+    "@types/node": "^18.8.1"
+  }
+}
